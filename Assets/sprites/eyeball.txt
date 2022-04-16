@@ -1,0 +1,12 @@
+eyeball_up_1 0 0 32 38
+eyeball_up_2 32 0 32 38
+eyeball_up_3 64 0 32 38
+eyeball_left_1 0 38 32 38
+eyeball_left_2 32 38 32 38
+eyeball_left_3 64 38 32 38
+eyeball_down_1 0 76 32 38
+eyeball_down_2 32 76 32 38
+eyeball_down_3 64 76 32 38
+eyeball_right_1 0 114 32 38
+eyeball_right_2 32 114 32 38
+eyeball_right_3 64 114 32 38

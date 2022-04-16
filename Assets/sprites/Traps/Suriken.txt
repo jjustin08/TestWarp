@@ -1,0 +1,8 @@
+Suriken_1 0 0 32 32
+Suriken_2 32 0 32 32
+Suriken_3 64 0 32 32
+Suriken_4 96 0 32 32
+Suriken_5 128 0 32 32
+Suriken_6 160 0 32 32
+Suriken_7 192 0 32 32
+Suriken_8 224 0 32 32

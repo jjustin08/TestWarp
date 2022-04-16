@@ -1,0 +1,8 @@
+portal1 0 0 64 64
+portal2 64 0 64 64
+portal3 128 0 64 64
+portal4 192 0 64 64
+portal5 256 0 64 64
+portal6 320 0 64 64
+portal7 384 0 64 64
+portal8 448 0 64 64

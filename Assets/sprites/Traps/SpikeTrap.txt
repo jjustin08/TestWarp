@@ -1,0 +1,14 @@
+Spike_Trap_1 0 0 32 32
+Spike_Trap_2 32 0 32 32
+Spike_Trap_3 64 0 32 32
+Spike_Trap_4 96 0 32 32
+Spike_Trap_5 128 0 32 32
+Spike_Trap_6 160 0 32 32
+Spike_Trap_7 192 0 32 32
+Spike_Trap_8 224 0 32 32
+Spike_Trap_9 256 0 32 32
+Spike_Trap_10 288 0 32 32
+Spike_Trap_11 320 0 32 32 
+Spike_Trap_12 352 0 32 32
+Spike_Trap_13 384 0 32 32
+Spike_Trap_14 416 0 32 32

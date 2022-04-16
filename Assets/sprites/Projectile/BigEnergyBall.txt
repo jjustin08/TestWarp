@@ -1,0 +1,4 @@
+BigEnergyBall_1 0 0 24 24 
+BigEnergyBall_2 24 0 24 24 
+BigEnergyBall_3 48 0 24 24 
+BigEnergyBall_4 72 0 24 24 

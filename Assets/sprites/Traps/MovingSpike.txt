@@ -1,0 +1,3 @@
+Moving_Spike_1 0 0 30 32
+Moving_Spike_2 31 0 18 32
+Moving_Spike_3 50 0 30 16

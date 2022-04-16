@@ -1,0 +1,4 @@
+massive_bat1 0 0 16 16
+massive_bat2 16 0 16 16
+massive_bat3 32 0 16 16
+massive_bat4 48 0 16 16
